@@ -2,7 +2,9 @@
 
 Finds out kth character from a huge binary where string construction follows certain criterias.
 
-`Problem:`
+```
+Problem:
+```
 A "0/1 string" is a string in which every character is either 0 or 1. There are two operations that can be performed on a 0/1 string:
 
 switch: Every 0 becomes 1 and every 1 becomes 0. For example, "100" becomes "011".
